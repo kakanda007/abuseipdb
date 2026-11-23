@@ -1,0 +1,19 @@
+# rahasia — jangan pernah masuk repo
+.env
+*.env
+config.env
+*.secret
+*.token
+deploy_key
+deploy_key.pub
+*.pem
+
+# file sementara publisher
+*.tmp
+
+# OS / editor
+.DS_Store
+__pycache__/
+*.pyc
+.vscode/
+.idea/
