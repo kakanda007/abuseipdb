@@ -2,7 +2,7 @@
  "window_days": 30,
  "window_start": "2026-10-24T14:03:07Z",
  "snapshot_at": "2026-11-23T14:03:07Z",
- "total": 40022,
+ "total": 40023,
  "data": [
   {
    "country_code": "US",
@@ -169,7 +169,7 @@
   {
    "country_code": "IE",
    "country": "Ireland",
-   "count": 189,
+   "count": 190,
    "percent": 0.47
   },
   {
