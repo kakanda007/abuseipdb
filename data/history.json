@@ -64,5 +64,16 @@
   "removed": 6044,
   "unique_last_window": 46058,
   "window_days": 30
+ },
+ {
+  "snapshot_at": "2026-11-25T04:00:55Z",
+  "snapshot_at_wib": "2026-11-25T11:00:55+07:00",
+  "total": 10000,
+  "ipv4": 9970,
+  "ipv6": 30,
+  "added": 5733,
+  "removed": 5733,
+  "unique_last_window": 46889,
+  "window_days": 30
  }
 ]
