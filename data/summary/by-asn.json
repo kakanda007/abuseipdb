@@ -1,337 +1,327 @@
 {
- "snapshot_at": "2026-11-26T23:00:28Z",
+ "snapshot_at": "2026-11-27T04:00:56Z",
  "total": 10000,
  "top": 100,
  "data": [
   {
    "asn": "AS8075",
    "as_name": "Microsoft Corporation",
-   "count": 822
+   "count": 691
+  },
+  {
+   "asn": "AS15169",
+   "as_name": "Google LLC",
+   "count": 407
   },
   {
    "asn": "AS45102",
    "as_name": "Alibaba (US) Technology Co., Ltd.",
-   "count": 494
-  },
-  {
-   "asn": "AS25369",
-   "as_name": "Hydra Communications Ltd",
-   "count": 458
+   "count": 367
   },
   {
    "asn": "AS14061",
    "as_name": "DigitalOcean, LLC",
-   "count": 434
+   "count": 344
   },
   {
    "asn": "AS398324",
    "as_name": "Censys, Inc.",
-   "count": 323
-  },
-  {
-   "asn": "AS63949",
-   "as_name": "Akamai Connected Cloud",
-   "count": 263
-  },
-  {
-   "asn": "AS4134",
-   "as_name": "CHINANET BACKBONE",
-   "count": 248
-  },
-  {
-   "asn": "AS22773",
-   "as_name": "Cox Communications, LLC",
-   "count": 246
+   "count": 337
   },
   {
    "asn": "AS135377",
    "as_name": "UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
-   "count": 232
+   "count": 310
   },
   {
-   "asn": "AS211298",
-   "as_name": "Driftnet Ltd",
-   "count": 223
+   "asn": "AS25369",
+   "as_name": "Hydra Communications Ltd",
+   "count": 301
   },
   {
-   "asn": "AS4766",
-   "as_name": "Korea Telecom",
-   "count": 215
-  },
-  {
-   "asn": "AS16509",
-   "as_name": "Amazon.com, Inc.",
-   "count": 199
-  },
-  {
-   "asn": "AS14618",
-   "as_name": "Amazon.com, Inc.",
-   "count": 178
-  },
-  {
-   "asn": "AS198364",
-   "as_name": "BANATSYNC SRL",
-   "count": 122
-  },
-  {
-   "asn": "AS209334",
-   "as_name": "Modat B.V.",
-   "count": 115
-  },
-  {
-   "asn": "AS4837",
-   "as_name": "CHINA UNICOM China169 Backbone",
-   "count": 103
-  },
-  {
-   "asn": "AS132203",
-   "as_name": "Tencent Building, Kejizhongyi Avenue",
-   "count": 100
-  },
-  {
-   "asn": "AS31898",
-   "as_name": "Oracle Corporation",
-   "count": 96
-  },
-  {
-   "asn": "AS9808",
-   "as_name": "China Mobile Communications Group Co., Ltd.",
-   "count": 85
+   "asn": "AS63949",
+   "as_name": "Akamai Connected Cloud",
+   "count": 276
   },
   {
    "asn": "AS396982",
    "as_name": "Google LLC",
-   "count": 84
+   "count": 270
+  },
+  {
+   "asn": "AS16509",
+   "as_name": "Amazon.com, Inc.",
+   "count": 222
+  },
+  {
+   "asn": "AS4766",
+   "as_name": "Korea Telecom",
+   "count": 219
+  },
+  {
+   "asn": "AS6939",
+   "as_name": "Hurricane Electric LLC",
+   "count": 211
+  },
+  {
+   "asn": "AS4134",
+   "as_name": "CHINANET BACKBONE",
+   "count": 193
+  },
+  {
+   "asn": "AS14618",
+   "as_name": "Amazon.com, Inc.",
+   "count": 186
+  },
+  {
+   "asn": "AS22773",
+   "as_name": "Cox Communications Inc.",
+   "count": 171
+  },
+  {
+   "asn": "AS132203",
+   "as_name": "Tencent Building, Kejizhongyi Avenue",
+   "count": 139
+  },
+  {
+   "asn": "AS209334",
+   "as_name": "Modat B.V.",
+   "count": 119
+  },
+  {
+   "asn": "AS211298",
+   "as_name": "Driftnet Ltd",
+   "count": 114
+  },
+  {
+   "asn": "AS198364",
+   "as_name": "BANATSYNC SRL",
+   "count": 113
+  },
+  {
+   "asn": "AS4837",
+   "as_name": "CHINA UNICOM China169 Backbone",
+   "count": 90
+  },
+  {
+   "asn": "AS22168",
+   "as_name": "The Shadowserver Foundation, Inc.",
+   "count": 78
+  },
+  {
+   "asn": "AS31898",
+   "as_name": "Oracle Corporation",
+   "count": 72
   },
   {
    "asn": "AS45090",
    "as_name": "Shenzhen Tencent Computer Systems Company Limited",
-   "count": 81
-  },
-  {
-   "asn": "AS16276",
-   "as_name": "OVH SAS",
    "count": 71
-  },
-  {
-   "asn": "AS7922",
-   "as_name": "Comcast Cable Communications, LLC",
-   "count": 69
-  },
-  {
-   "asn": "AS211680",
-   "as_name": "NSEC - Sistemas Informaticos, S.A.",
-   "count": 63
-  },
-  {
-   "asn": "AS21859",
-   "as_name": "Zenlayer Inc",
-   "count": 63
-  },
-  {
-   "asn": "AS37963",
-   "as_name": "Hangzhou Alibaba Advertising Co.,Ltd.",
-   "count": 61
   },
   {
    "asn": "AS197170",
    "as_name": "TechTies Inc.",
+   "count": 70
+  },
+  {
+   "asn": "AS21859",
+   "as_name": "Zenlayer Inc",
+   "count": 68
+  },
+  {
+   "asn": "AS211680",
+   "as_name": "NSEC - Sistemas Informaticos, S.A.",
+   "count": 67
+  },
+  {
+   "asn": "AS16276",
+   "as_name": "OVH SAS",
+   "count": 62
+  },
+  {
+   "asn": "AS7922",
+   "as_name": "Comcast Cable Communications, LLC",
    "count": 61
-  },
-  {
-   "asn": "AS137718",
-   "as_name": "Beijing Volcano Engine Technology Co., Ltd.",
-   "count": 60
-  },
-  {
-   "asn": "AS4811",
-   "as_name": "China Telecom (Group)",
-   "count": 57
-  },
-  {
-   "asn": "AS48090",
-   "as_name": "TECHOFF SRV LIMITED",
-   "count": 50
-  },
-  {
-   "asn": "AS206092",
-   "as_name": "F.N.S. HOLDINGS LIMITED",
-   "count": 47
-  },
-  {
-   "asn": "AS51167",
-   "as_name": "Contabo GmbH",
-   "count": 45
-  },
-  {
-   "asn": "AS47890",
-   "as_name": "UNMANAGED LTD",
-   "count": 42
-  },
-  {
-   "asn": "AS207043",
-   "as_name": "DEDIK SERVICES LIMITED",
-   "count": 40
-  },
-  {
-   "asn": "AS38365",
-   "as_name": "Beijing Baidu Netcom Science and Technology Co., Ltd.",
-   "count": 40
-  },
-  {
-   "asn": "AS8560",
-   "as_name": "IONOS SE",
-   "count": 36
   },
   {
    "asn": "AS13335",
    "as_name": "Cloudflare, Inc.",
-   "count": 36
+   "count": 61
   },
   {
-   "asn": "AS403005",
-   "as_name": "Blatant Technologies, LLC",
-   "count": 35
+   "asn": "AS48090",
+   "as_name": "TECHOFF SRV LIMITED",
+   "count": 57
   },
   {
-   "asn": "AS208843",
-   "as_name": "Alpha Strike Labs GmbH",
-   "count": 35
+   "asn": "AS207043",
+   "as_name": "DEDIK SERVICES LIMITED",
+   "count": 55
   },
   {
-   "asn": "AS9498",
-   "as_name": "BHARTI Airtel Ltd.",
-   "count": 33
+   "asn": "AS9808",
+   "as_name": "China Mobile Communications Group Co., Ltd.",
+   "count": 55
   },
   {
-   "asn": "AS24560",
-   "as_name": "Bharti Airtel Ltd., Telemedia Services",
-   "count": 30
+   "asn": "AS51167",
+   "as_name": "Contabo GmbH",
+   "count": 50
   },
   {
-   "asn": "AS3462",
-   "as_name": "Data Communication Business Group",
-   "count": 29
-  },
-  {
-   "asn": "AS14987",
-   "as_name": "Rethem Hosting LLC",
-   "count": 29
+   "asn": "AS37963",
+   "as_name": "Hangzhou Alibaba Advertising Co.,Ltd.",
+   "count": 44
   },
   {
    "asn": "AS51396",
    "as_name": "Pfcloud UG",
-   "count": 28
+   "count": 39
   },
   {
-   "asn": "AS215778",
-   "as_name": "Alpha Strike Labs GmbH",
-   "count": 28
+   "asn": "AS4811",
+   "as_name": "China Telecom (Group)",
+   "count": 36
   },
   {
-   "asn": "AS202425",
-   "as_name": "IP Volume inc",
-   "count": 28
+   "asn": "AS137718",
+   "as_name": "Beijing Volcano Engine Technology Co., Ltd.",
+   "count": 36
+  },
+  {
+   "asn": "AS401626",
+   "as_name": "Netiface America, Inc.",
+   "count": 36
   },
   {
    "asn": "AS9541",
    "as_name": "Cyber Internet Services (Pvt) Ltd.",
+   "count": 36
+  },
+  {
+   "asn": "AS38365",
+   "as_name": "Beijing Baidu Netcom Science and Technology Co., Ltd.",
+   "count": 35
+  },
+  {
+   "asn": "AS47890",
+   "as_name": "UNMANAGED LTD",
+   "count": 34
+  },
+  {
+   "asn": "AS202425",
+   "as_name": "IP Volume inc",
+   "count": 33
+  },
+  {
+   "asn": "AS4818",
+   "as_name": "DiGi Telecommunications Sdn. Bhd.",
+   "count": 32
+  },
+  {
+   "asn": "AS8560",
+   "as_name": "IONOS SE",
+   "count": 31
+  },
+  {
+   "asn": "AS24560",
+   "as_name": "Bharti Airtel Ltd., Telemedia Services",
+   "count": 31
+  },
+  {
+   "asn": "AS62240",
+   "as_name": "Clouvider",
+   "count": 30
+  },
+  {
+   "asn": "AS208843",
+   "as_name": "Alpha Strike Labs GmbH",
+   "count": 29
+  },
+  {
+   "asn": "AS218785",
+   "as_name": "TC DATACENTER LIMITED",
+   "count": 28
+  },
+  {
+   "asn": "AS3786",
+   "as_name": "LG DACOM Corporation",
    "count": 27
   },
   {
-   "asn": "AS10429",
-   "as_name": "TELEFÔNICA BRASIL S.A",
+   "asn": "AS7552",
+   "as_name": "Viettel Group",
    "count": 27
   },
   {
-   "asn": "AS9318",
-   "as_name": "SK Broadband Co Ltd",
+   "asn": "AS8151",
+   "as_name": "Uninet S.A. de C.V.",
+   "count": 26
+  },
+  {
+   "asn": "AS36352",
+   "as_name": "HostPapa",
+   "count": 25
+  },
+  {
+   "asn": "AS150436",
+   "as_name": "Byteplus Pte. Ltd.",
    "count": 25
   },
   {
    "asn": "AS8193",
    "as_name": "\"Uzbektelekom\" Joint Stock Company",
-   "count": 25
-  },
-  {
-   "asn": "AS4818",
-   "as_name": "DiGi Telecommunications Sdn. Bhd.",
-   "count": 25
-  },
-  {
-   "asn": "AS401626",
-   "as_name": "Netiface America, Inc.",
    "count": 24
   },
   {
-   "asn": "AS150436",
-   "as_name": "Byteplus Pte. Ltd.",
+   "asn": "AS9498",
+   "as_name": "BHARTI Airtel Ltd.",
    "count": 24
   },
   {
-   "asn": "AS9829",
-   "as_name": "National Internet Backbone",
+   "asn": "AS12552",
+   "as_name": "GlobalConnect AB",
    "count": 24
   },
   {
-   "asn": "AS197769",
-   "as_name": "VPS Dedicated LLC",
+   "asn": "AS208137",
+   "as_name": "Feo Prest SRL",
    "count": 24
   },
   {
-   "asn": "AS7552",
-   "as_name": "Viettel Group",
+   "asn": "AS45899",
+   "as_name": "VNPT Corp",
    "count": 23
   },
   {
-   "asn": "AS12389",
-   "as_name": "PJSC Rostelecom",
-   "count": 23
-  },
-  {
-   "asn": "AS4760",
-   "as_name": "HKT Limited",
+   "asn": "AS10429",
+   "as_name": "TELEFÔNICA BRASIL S.A",
    "count": 23
   },
   {
    "asn": "AS18881",
    "as_name": "TELEFÔNICA BRASIL S.A",
-   "count": 23
-  },
-  {
-   "asn": "AS208137",
-   "as_name": "Feo Prest SRL",
-   "count": 23
-  },
-  {
-   "asn": "AS45899",
-   "as_name": "VNPT Corp",
    "count": 22
   },
   {
-   "asn": "AS199457",
-   "as_name": "SolidCore Hosting LTD",
-   "count": 22
-  },
-  {
-   "asn": "AS42969",
-   "as_name": "Alpha Strike Labs GmbH",
-   "count": 22
-  },
-  {
-   "asn": "AS203214",
-   "as_name": "Hulum Almustakbal Company for Communication Engineering and Services Ltd",
+   "asn": "AS3462",
+   "as_name": "Data Communication Business Group",
    "count": 21
   },
   {
-   "asn": "AS4808",
-   "as_name": "China Unicom Beijing Province Network",
+   "asn": "AS403005",
+   "as_name": "Blatant Technologies, LLC",
+   "count": 21
+  },
+  {
+   "asn": "AS4760",
+   "as_name": "HKT Limited",
    "count": 21
   },
   {
    "asn": "AS23724",
    "as_name": "IDC, China Telecommunications Corporation",
-   "count": 21
+   "count": 20
   },
   {
    "asn": "AS24940",
@@ -339,74 +329,39 @@
    "count": 20
   },
   {
-   "asn": "AS4812",
-   "as_name": "China Telecom (Group)",
-   "count": 20
+   "asn": "AS9318",
+   "as_name": "SK Broadband Co Ltd",
+   "count": 19
   },
   {
-   "asn": "AS8151",
-   "as_name": "Uninet S.A. de C.V.",
-   "count": 20
+   "asn": "AS197769",
+   "as_name": "VPS Dedicated LLC",
+   "count": 19
   },
   {
-   "asn": "AS3786",
-   "as_name": "LG DACOM Corporation",
+   "asn": "AS14987",
+   "as_name": "Rethem Hosting LLC",
    "count": 19
   },
   {
    "asn": "AS29518",
    "as_name": "Bredband2 AB",
-   "count": 19
-  },
-  {
-   "asn": "AS55330",
-   "as_name": "AFGHANTELECOM GOVERNMENT COMMUNICATION NETWORK",
-   "count": 19
-  },
-  {
-   "asn": "AS219326",
-   "as_name": "SULAVI LTD",
    "count": 18
   },
   {
-   "asn": "AS10439",
-   "as_name": "CariNet, Inc.",
+   "asn": "AS50360",
+   "as_name": "Tamatiya EOOD",
    "count": 18
   },
   {
-   "asn": "AS209366",
-   "as_name": "SEMrush CY LTD",
-   "count": 18
-  },
-  {
-   "asn": "AS7303",
-   "as_name": "Telecom Argentina S.A.",
-   "count": 18
-  },
-  {
-   "asn": "AS215125",
-   "as_name": "Church of Cyberology",
-   "count": 18
-  },
-  {
-   "asn": "AS56046",
-   "as_name": "China Mobile communications corporation",
+   "asn": "AS215925",
+   "as_name": "VPSVAULT.HOST LTD",
    "count": 17
   },
   {
-   "asn": "AS213790",
-   "as_name": "Limited Network LTD",
+   "asn": "AS9829",
+   "as_name": "National Internet Backbone",
    "count": 17
-  },
-  {
-   "asn": "AS212238",
-   "as_name": "Datacamp Limited",
-   "count": 17
-  },
-  {
-   "asn": "AS7713",
-   "as_name": "PT Telekomunikasi Indonesia",
-   "count": 16
   },
   {
    "asn": "AS4788",
@@ -414,8 +369,13 @@
    "count": 16
   },
   {
-   "asn": "AS29066",
-   "as_name": "velia.net Internetdienste GmbH",
+   "asn": "AS199457",
+   "as_name": "SolidCore Hosting LTD",
+   "count": 16
+  },
+  {
+   "asn": "AS4812",
+   "as_name": "China Telecom (Group)",
    "count": 16
   },
   {
@@ -424,84 +384,124 @@
    "count": 16
   },
   {
-   "asn": "AS17421",
-   "as_name": "Mobile Business Group",
-   "count": 16
-  },
-  {
-   "asn": "AS24757",
-   "as_name": "Ethio Telecom",
-   "count": 16
-  },
-  {
    "asn": "AS135905",
    "as_name": "VIETNAM POSTS AND TELECOMMUNICATIONS GROUP",
    "count": 15
   },
   {
-   "asn": "AS174",
-   "as_name": "Cogent Communications, LLC",
+   "asn": "AS56046",
+   "as_name": "China Mobile communications corporation",
    "count": 15
   },
   {
-   "asn": "AS218785",
-   "as_name": "TC DATACENTER LIMITED",
+   "asn": "AS213790",
+   "as_name": "Limited Network LTD",
    "count": 15
   },
   {
-   "asn": "AS12876",
-   "as_name": "Scaleway SAS",
+   "asn": "AS58519",
+   "as_name": "Cloud Computing Corporation",
    "count": 15
   },
   {
-   "asn": "AS50360",
-   "as_name": "Tamatiya EOOD",
+   "asn": "AS24757",
+   "as_name": "Ethio Telecom",
    "count": 15
   },
   {
-   "asn": "AS9465",
-   "as_name": "AGOTOZ PTE. LTD.",
-   "count": 15
+   "asn": "AS12389",
+   "as_name": "PJSC Rostelecom",
+   "count": 14
+  },
+  {
+   "asn": "AS9009",
+   "as_name": "M247 Europe SRL",
+   "count": 14
+  },
+  {
+   "asn": "AS20052",
+   "as_name": "Arbor Networks, Inc.",
+   "count": 14
+  },
+  {
+   "asn": "AS52468",
+   "as_name": "UFINET PANAMA S.A.",
+   "count": 14
+  },
+  {
+   "asn": "AS20115",
+   "as_name": "Charter Communications LLC",
+   "count": 13
+  },
+  {
+   "asn": "AS6849",
+   "as_name": "JSC \"Ukrtelecom\"",
+   "count": 13
+  },
+  {
+   "asn": "AS215778",
+   "as_name": "Alpha Strike Labs GmbH",
+   "count": 13
+  },
+  {
+   "asn": "AS17421",
+   "as_name": "Mobile Business Group",
+   "count": 13
+  },
+  {
+   "asn": "AS4808",
+   "as_name": "China Unicom Beijing Province Network",
+   "count": 13
+  },
+  {
+   "asn": "AS28573",
+   "as_name": "Claro NXT Telecomunicacoes Ltda",
+   "count": 13
+  },
+  {
+   "asn": "AS7738",
+   "as_name": "V tal",
+   "count": 13
   },
   {
    "asn": "AS3301",
    "as_name": "Telia Company AB",
-   "count": 14
+   "count": 12
   },
   {
-   "asn": "AS137409",
-   "as_name": "GSL Networks Pty LTD",
-   "count": 14
+   "asn": "AS7713",
+   "as_name": "PT Telekomunikasi Indonesia",
+   "count": 12
   },
   {
-   "asn": "AS36352",
-   "as_name": "HostPapa",
-   "count": 14
+   "asn": "AS53667",
+   "as_name": "FranTech Solutions",
+   "count": 12
   },
   {
-   "asn": "AS7018",
-   "as_name": "AT&T Enterprises, LLC",
-   "count": 13
+   "asn": "AS202306",
+   "as_name": "HOSTGLOBAL.PLUS LTD",
+   "count": 12
   },
   {
-   "asn": "AS25159",
-   "as_name": "PJSC MegaFon",
-   "count": 13
+   "asn": "AS9121",
+   "as_name": "Turk Telekomunikasyon Anonim Sirketi",
+   "count": 12
+  },
+  {
+   "asn": "AS12322",
+   "as_name": "Free SAS",
+   "count": 12
   },
   {
    "asn": "AS49870",
    "as_name": "Alsycon B.V.",
-   "count": 13
+   "count": 12
   },
   {
-   "asn": "AS6713",
-   "as_name": "Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM",
-   "count": 13
-  },
-  {
-   "asn": "AS209605",
-   "as_name": "UAB Host Baltic",
-   "count": 13
+   "asn": "AS26599",
+   "as_name": "TELEFÔNICA BRASIL S.A",
+   "count": 12
   }
  ]
 }
