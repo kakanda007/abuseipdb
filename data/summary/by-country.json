@@ -1,90 +1,90 @@
 {
- "snapshot_at": "2026-11-27T23:00:56Z",
+ "snapshot_at": "2026-11-28T04:00:33Z",
  "total": 10000,
  "data": [
   {
    "country_code": "US",
    "country": "United States",
-   "count": 2828,
-   "percent": 28.28
+   "count": 2992,
+   "percent": 29.92
   },
   {
    "country_code": "NL",
    "country": "The Netherlands",
-   "count": 977,
-   "percent": 9.77
+   "count": 913,
+   "percent": 9.13
   },
   {
    "country_code": "CN",
    "country": "China",
-   "count": 911,
-   "percent": 9.11
+   "count": 828,
+   "percent": 8.28
+  },
+  {
+   "country_code": "BE",
+   "country": "Belgium",
+   "count": 442,
+   "percent": 4.42
   },
   {
    "country_code": "DE",
    "country": "Germany",
-   "count": 420,
-   "percent": 4.2
+   "count": 427,
+   "percent": 4.27
   },
   {
    "country_code": "KR",
    "country": "South Korea",
-   "count": 379,
-   "percent": 3.79
+   "count": 392,
+   "percent": 3.92
   },
   {
    "country_code": "SG",
    "country": "Singapore",
-   "count": 362,
-   "percent": 3.62
-  },
-  {
-   "country_code": "GB",
-   "country": "United Kingdom",
    "count": 334,
    "percent": 3.34
   },
   {
+   "country_code": "FR",
+   "country": "France",
+   "count": 282,
+   "percent": 2.82
+  },
+  {
    "country_code": "IN",
    "country": "India",
-   "count": 279,
-   "percent": 2.79
+   "count": 271,
+   "percent": 2.71
   },
   {
    "country_code": "BR",
    "country": "Brazil",
-   "count": 257,
-   "percent": 2.57
+   "count": 259,
+   "percent": 2.59
   },
   {
-   "country_code": "FR",
-   "country": "France",
-   "count": 254,
-   "percent": 2.54
-  },
-  {
-   "country_code": "HK",
-   "country": "Hong Kong",
-   "count": 229,
-   "percent": 2.29
+   "country_code": "GB",
+   "country": "United Kingdom",
+   "count": 202,
+   "percent": 2.02
   },
   {
    "country_code": "RU",
    "country": "Russia",
-   "count": 212,
-   "percent": 2.12
+   "count": 192,
+   "percent": 1.92
   },
   {
-   "country_code": "JP",
-   "country": "Japan",
-   "count": 194,
-   "percent": 1.94
+   "country_code": "HK",
+   "country": "Hong Kong",
+   "count": 190,
+   "percent": 1.9
   },
   {
-   "country_code": "MY",
-   "country": "Malaysia",
-   "count": 150,
-   "percent": 1.5
+   "country_code": "VN",
+   "country": "Vietnam",
+   "count": 152,
+   "percent": 1.52
   },
   {
    "country_code": "CA",
@@ -93,100 +93,76 @@
    "percent": 1.44
   },
   {
-   "country_code": "VN",
-   "country": "Vietnam",
-   "count": 135,
-   "percent": 1.35
-  },
-  {
    "country_code": "ID",
    "country": "Indonesia",
-   "count": 133,
-   "percent": 1.33
+   "count": 139,
+   "percent": 1.39
   },
   {
-   "country_code": "TW",
-   "country": "Taiwan",
-   "count": 98,
-   "percent": 0.98
+   "country_code": "JP",
+   "country": "Japan",
+   "count": 138,
+   "percent": 1.38
+  },
+  {
+   "country_code": "MY",
+   "country": "Malaysia",
+   "count": 124,
+   "percent": 1.24
   },
   {
    "country_code": "UA",
    "country": "Ukraine",
-   "count": 95,
-   "percent": 0.95
+   "count": 97,
+   "percent": 0.97
   },
   {
-   "country_code": "IT",
-   "country": "Italy",
-   "count": 72,
-   "percent": 0.72
+   "country_code": "TW",
+   "country": "Taiwan",
+   "count": 73,
+   "percent": 0.73
   },
   {
    "country_code": "AR",
    "country": "Argentina",
-   "count": 72,
-   "percent": 0.72
+   "count": 69,
+   "percent": 0.69
   },
   {
    "country_code": "PL",
    "country": "Poland",
-   "count": 71,
-   "percent": 0.71
-  },
-  {
-   "country_code": "SE",
-   "country": "Sweden",
-   "count": 70,
-   "percent": 0.7
-  },
-  {
-   "country_code": "AU",
-   "country": "Australia",
-   "count": 63,
-   "percent": 0.63
+   "count": 68,
+   "percent": 0.68
   },
   {
    "country_code": "PK",
    "country": "Pakistan",
-   "count": 63,
-   "percent": 0.63
-  },
-  {
-   "country_code": "BG",
-   "country": "Bulgaria",
    "count": 61,
    "percent": 0.61
   },
   {
-   "country_code": "FI",
-   "country": "Finland",
+   "country_code": "SE",
+   "country": "Sweden",
    "count": 60,
    "percent": 0.6
   },
   {
-   "country_code": "TH",
-   "country": "Thailand",
-   "count": 52,
-   "percent": 0.52
+   "country_code": "BG",
+   "country": "Bulgaria",
+   "count": 59,
+   "percent": 0.59
   },
   {
-   "country_code": "BE",
-   "country": "Belgium",
-   "count": 52,
-   "percent": 0.52
-  },
-  {
-   "country_code": "MX",
-   "country": "Mexico",
-   "count": 52,
-   "percent": 0.52
-  },
-  {
-   "country_code": "CH",
-   "country": "Switzerland",
+   "country_code": "BD",
+   "country": "Bangladesh",
    "count": 51,
    "percent": 0.51
+  },
+  {
+   "country_code": "TH",
+   "country": "Thailand",
+   "count": 50,
+   "percent": 0.5
   },
   {
    "country_code": "LT",
@@ -197,180 +173,198 @@
   {
    "country_code": "RO",
    "country": "Romania",
+   "count": 48,
+   "percent": 0.48
+  },
+  {
+   "country_code": "MX",
+   "country": "Mexico",
    "count": 47,
    "percent": 0.47
   },
   {
-   "country_code": "TR",
-   "country": "Turkey",
-   "count": 40,
-   "percent": 0.4
+   "country_code": "FI",
+   "country": "Finland",
+   "count": 46,
+   "percent": 0.46
   },
   {
-   "country_code": "CO",
-   "country": "Colombia",
+   "country_code": "IT",
+   "country": "Italy",
+   "count": 44,
+   "percent": 0.44
+  },
+  {
+   "country_code": "CH",
+   "country": "Switzerland",
+   "count": 43,
+   "percent": 0.43
+  },
+  {
+   "country_code": "TR",
+   "country": "Turkey",
    "count": 37,
    "percent": 0.37
   },
   {
-   "country_code": "BD",
-   "country": "Bangladesh",
+   "country_code": "CO",
+   "country": "Colombia",
    "count": 35,
    "percent": 0.35
   },
   {
-   "country_code": "IR",
-   "country": "Iran",
+   "country_code": "AU",
+   "country": "Australia",
    "count": 34,
    "percent": 0.34
+  },
+  {
+   "country_code": "IR",
+   "country": "Iran",
+   "count": 31,
+   "percent": 0.31
   },
   {
    "country_code": "ES",
    "country": "Spain",
-   "count": 34,
-   "percent": 0.34
-  },
-  {
-   "country_code": "CL",
-   "country": "Chile",
-   "count": 28,
-   "percent": 0.28
-  },
-  {
-   "country_code": "NG",
-   "country": "Nigeria",
-   "count": 27,
-   "percent": 0.27
-  },
-  {
-   "country_code": "IQ",
-   "country": "Iraq",
-   "count": 27,
-   "percent": 0.27
-  },
-  {
-   "country_code": "KZ",
-   "country": "Kazakhstan",
-   "count": 26,
-   "percent": 0.26
-  },
-  {
-   "country_code": "IL",
-   "country": "Israel",
-   "count": 25,
-   "percent": 0.25
-  },
-  {
-   "country_code": "UZ",
-   "country": "Uzbekistan",
-   "count": 23,
-   "percent": 0.23
-  },
-  {
-   "country_code": "ZA",
-   "country": "South Africa",
-   "count": 22,
-   "percent": 0.22
-  },
-  {
-   "country_code": "KE",
-   "country": "Kenya",
-   "count": 20,
-   "percent": 0.2
+   "count": 31,
+   "percent": 0.31
   },
   {
    "country_code": "AF",
    "country": "Afghanistan",
+   "count": 26,
+   "percent": 0.26
+  },
+  {
+   "country_code": "UZ",
+   "country": "Uzbekistan",
+   "count": 25,
+   "percent": 0.25
+  },
+  {
+   "country_code": "KZ",
+   "country": "Kazakhstan",
+   "count": 24,
+   "percent": 0.24
+  },
+  {
+   "country_code": "NG",
+   "country": "Nigeria",
+   "count": 22,
+   "percent": 0.22
+  },
+  {
+   "country_code": "CL",
+   "country": "Chile",
+   "count": 21,
+   "percent": 0.21
+  },
+  {
+   "country_code": "IL",
+   "country": "Israel",
+   "count": 19,
+   "percent": 0.19
+  },
+  {
+   "country_code": "ZA",
+   "country": "South Africa",
+   "count": 19,
+   "percent": 0.19
+  },
+  {
+   "country_code": "AT",
+   "country": "Austria",
    "count": 18,
    "percent": 0.18
   },
   {
+   "country_code": "KE",
+   "country": "Kenya",
+   "count": 17,
+   "percent": 0.17
+  },
+  {
+   "country_code": "IQ",
+   "country": "Iraq",
+   "count": 16,
+   "percent": 0.16
+  },
+  {
    "country_code": "VE",
    "country": "Venezuela",
-   "count": 16,
-   "percent": 0.16
+   "count": 15,
+   "percent": 0.15
   },
   {
-   "country_code": "MA",
-   "country": "Morocco",
-   "count": 16,
-   "percent": 0.16
-  },
-  {
-   "country_code": "EG",
-   "country": "Egypt",
+   "country_code": "ET",
+   "country": "Ethiopia",
    "count": 15,
    "percent": 0.15
   },
   {
    "country_code": "SI",
    "country": "Slovenia",
-   "count": 15,
-   "percent": 0.15
-  },
-  {
-   "country_code": "PT",
-   "country": "Portugal",
    "count": 14,
    "percent": 0.14
+  },
+  {
+   "country_code": "EG",
+   "country": "Egypt",
+   "count": 13,
+   "percent": 0.13
   },
   {
    "country_code": "PH",
    "country": "Philippines",
-   "count": 14,
-   "percent": 0.14
-  },
-  {
-   "country_code": "AT",
-   "country": "Austria",
-   "count": 13,
-   "percent": 0.13
-  },
-  {
-   "country_code": "ET",
-   "country": "Ethiopia",
-   "count": 13,
-   "percent": 0.13
-  },
-  {
-   "country_code": "IE",
-   "country": "Ireland",
-   "count": 12,
-   "percent": 0.12
-  },
-  {
-   "country_code": "TN",
-   "country": "Tunisia",
    "count": 11,
    "percent": 0.11
   },
   {
-   "country_code": "AE",
-   "country": "United Arab Emirates",
-   "count": 10,
-   "percent": 0.1
-  },
-  {
-   "country_code": "EC",
-   "country": "Ecuador",
-   "count": 10,
-   "percent": 0.1
-  },
-  {
-   "country_code": "LV",
-   "country": "Latvia",
-   "count": 9,
-   "percent": 0.09
-  },
-  {
    "country_code": "NO",
    "country": "Norway",
-   "count": 8,
-   "percent": 0.08
+   "count": 10,
+   "percent": 0.1
+  },
+  {
+   "country_code": "PT",
+   "country": "Portugal",
+   "count": 10,
+   "percent": 0.1
   },
   {
    "country_code": "BO",
    "country": "Bolivia",
+   "count": 10,
+   "percent": 0.1
+  },
+  {
+   "country_code": "PE",
+   "country": "Peru",
+   "count": 9,
+   "percent": 0.09
+  },
+  {
+   "country_code": "CZ",
+   "country": "Czechia",
+   "count": 9,
+   "percent": 0.09
+  },
+  {
+   "country_code": "MA",
+   "country": "Morocco",
+   "count": 9,
+   "percent": 0.09
+  },
+  {
+   "country_code": "AE",
+   "country": "United Arab Emirates",
+   "count": 8,
+   "percent": 0.08
+  },
+  {
+   "country_code": "EC",
+   "country": "Ecuador",
    "count": 8,
    "percent": 0.08
   },
@@ -381,80 +375,80 @@
    "percent": 0.07
   },
   {
-   "country_code": "QA",
-   "country": "Qatar",
+   "country_code": "GE",
+   "country": "Georgia",
    "count": 7,
    "percent": 0.07
-  },
-  {
-   "country_code": "PE",
-   "country": "Peru",
-   "count": 7,
-   "percent": 0.07
-  },
-  {
-   "country_code": "KH",
-   "country": "Cambodia",
-   "count": 6,
-   "percent": 0.06
-  },
-  {
-   "country_code": "DK",
-   "country": "Denmark",
-   "count": 6,
-   "percent": 0.06
   },
   {
    "country_code": "PY",
    "country": "Paraguay",
+   "count": 7,
+   "percent": 0.07
+  },
+  {
+   "country_code": "TN",
+   "country": "Tunisia",
+   "count": 7,
+   "percent": 0.07
+  },
+  {
+   "country_code": "IE",
+   "country": "Ireland",
    "count": 6,
    "percent": 0.06
   },
   {
-   "country_code": "SN",
-   "country": "Senegal",
-   "count": 5,
-   "percent": 0.05
-  },
-  {
-   "country_code": "CZ",
-   "country": "Czechia",
-   "count": 5,
-   "percent": 0.05
-  },
-  {
-   "country_code": "AZ",
-   "country": "Azerbaijan",
-   "count": 5,
-   "percent": 0.05
+   "country_code": "LV",
+   "country": "Latvia",
+   "count": 6,
+   "percent": 0.06
   },
   {
    "country_code": "NP",
    "country": "Nepal",
+   "count": 6,
+   "percent": 0.06
+  },
+  {
+   "country_code": "MO",
+   "country": "Macao",
+   "count": 5,
+   "percent": 0.05
+  },
+  {
+   "country_code": "MM",
+   "country": "Myanmar",
+   "count": 5,
+   "percent": 0.05
+  },
+  {
+   "country_code": "GH",
+   "country": "Ghana",
+   "count": 5,
+   "percent": 0.05
+  },
+  {
+   "country_code": "ZM",
+   "country": "Zambia",
+   "count": 5,
+   "percent": 0.05
+  },
+  {
+   "country_code": "CM",
+   "country": "Cameroon",
    "count": 5,
    "percent": 0.05
   },
   {
    "country_code": "MD",
    "country": "Moldova",
-   "count": 5,
-   "percent": 0.05
-  },
-  {
-   "country_code": "NZ",
-   "country": "New Zealand",
-   "count": 5,
-   "percent": 0.05
-  },
-  {
-   "country_code": "KG",
-   "country": "Kyrgyzstan",
    "count": 4,
    "percent": 0.04
   },
   {
-   "country_code": "EE",
-   "country": "Estonia",
+   "country_code": "KW",
+   "country": "Kuwait",
    "count": 4,
    "percent": 0.04
   },
@@ -465,80 +459,68 @@
    "percent": 0.04
   },
   {
-   "country_code": "ZM",
-   "country": "Zambia",
+   "country_code": "SN",
+   "country": "Senegal",
    "count": 4,
    "percent": 0.04
-  },
-  {
-   "country_code": "DZ",
-   "country": "Algeria",
-   "count": 4,
-   "percent": 0.04
-  },
-  {
-   "country_code": "BW",
-   "country": "Botswana",
-   "count": 4,
-   "percent": 0.04
-  },
-  {
-   "country_code": "MO",
-   "country": "Macao",
-   "count": 4,
-   "percent": 0.04
-  },
-  {
-   "country_code": "IS",
-   "country": "Iceland",
-   "count": 4,
-   "percent": 0.04
-  },
-  {
-   "country_code": "LK",
-   "country": "Sri Lanka",
-   "count": 4,
-   "percent": 0.04
-  },
-  {
-   "country_code": "CR",
-   "country": "Costa Rica",
-   "count": 4,
-   "percent": 0.04
-  },
-  {
-   "country_code": "ZW",
-   "country": "Zimbabwe",
-   "count": 3,
-   "percent": 0.03
-  },
-  {
-   "country_code": "GH",
-   "country": "Ghana",
-   "count": 3,
-   "percent": 0.03
-  },
-  {
-   "country_code": "CM",
-   "country": "Cameroon",
-   "count": 3,
-   "percent": 0.03
   },
   {
    "country_code": "DO",
    "country": "Dominican Republic",
+   "count": 4,
+   "percent": 0.04
+  },
+  {
+   "country_code": "AZ",
+   "country": "Azerbaijan",
+   "count": 4,
+   "percent": 0.04
+  },
+  {
+   "country_code": "KH",
+   "country": "Cambodia",
+   "count": 4,
+   "percent": 0.04
+  },
+  {
+   "country_code": "UG",
+   "country": "Uganda",
+   "count": 4,
+   "percent": 0.04
+  },
+  {
+   "country_code": "DK",
+   "country": "Denmark",
    "count": 3,
    "percent": 0.03
   },
   {
-   "country_code": "PS",
-   "country": "Palestinian Territory",
+   "country_code": "EE",
+   "country": "Estonia",
    "count": 3,
    "percent": 0.03
   },
   {
-   "country_code": "KW",
-   "country": "Kuwait",
+   "country_code": "DZ",
+   "country": "Algeria",
+   "count": 3,
+   "percent": 0.03
+  },
+  {
+   "country_code": "BW",
+   "country": "Botswana",
+   "count": 3,
+   "percent": 0.03
+  },
+  {
+   "country_code": "GR",
+   "country": "Greece",
+   "count": 3,
+   "percent": 0.03
+  },
+  {
+   "country_code": "IS",
+   "country": "Iceland",
    "count": 3,
    "percent": 0.03
   },
@@ -549,32 +531,50 @@
    "percent": 0.03
   },
   {
-   "country_code": "MU",
-   "country": "Mauritius",
+   "country_code": "TG",
+   "country": "Togo",
    "count": 3,
    "percent": 0.03
   },
   {
-   "country_code": "MM",
-   "country": "Myanmar",
+   "country_code": "CI",
+   "country": "Ivory Coast",
    "count": 3,
    "percent": 0.03
-  },
-  {
-   "country_code": "PA",
-   "country": "Panama",
-   "count": 3,
-   "percent": 0.03
-  },
-  {
-   "country_code": "OM",
-   "country": "Oman",
-   "count": 2,
-   "percent": 0.02
   },
   {
    "country_code": "BF",
    "country": "Burkina Faso",
+   "count": 3,
+   "percent": 0.03
+  },
+  {
+   "country_code": "NZ",
+   "country": "New Zealand",
+   "count": 3,
+   "percent": 0.03
+  },
+  {
+   "country_code": "LK",
+   "country": "Sri Lanka",
+   "count": 3,
+   "percent": 0.03
+  },
+  {
+   "country_code": "AM",
+   "country": "Armenia",
+   "count": 3,
+   "percent": 0.03
+  },
+  {
+   "country_code": "KG",
+   "country": "Kyrgyzstan",
+   "count": 2,
+   "percent": 0.02
+  },
+  {
+   "country_code": "PS",
+   "country": "Palestinian Territory",
    "count": 2,
    "percent": 0.02
   },
@@ -585,14 +585,26 @@
    "percent": 0.02
   },
   {
-   "country_code": "MT",
-   "country": "Malta",
+   "country_code": "SK",
+   "country": "Slovakia",
    "count": 2,
    "percent": 0.02
   },
   {
-   "country_code": "GR",
-   "country": "Greece",
+   "country_code": "BN",
+   "country": "Brunei",
+   "count": 2,
+   "percent": 0.02
+  },
+  {
+   "country_code": "AL",
+   "country": "Albania",
+   "count": 2,
+   "percent": 0.02
+  },
+  {
+   "country_code": "CY",
+   "country": "Cyprus",
    "count": 2,
    "percent": 0.02
   },
@@ -603,38 +615,50 @@
    "percent": 0.02
   },
   {
-   "country_code": "GE",
-   "country": "Georgia",
+   "country_code": "BY",
+   "country": "Belarus",
    "count": 2,
    "percent": 0.02
   },
   {
-   "country_code": "LY",
-   "country": "Libya",
+   "country_code": "LU",
+   "country": "Luxembourg",
    "count": 2,
    "percent": 0.02
   },
   {
-   "country_code": "UG",
-   "country": "Uganda",
+   "country_code": "GP",
+   "country": "Guadeloupe",
    "count": 2,
    "percent": 0.02
   },
   {
-   "country_code": "AM",
-   "country": "Armenia",
+   "country_code": "SY",
+   "country": "Syria",
    "count": 2,
    "percent": 0.02
   },
   {
-   "country_code": "BZ",
-   "country": "Belize",
+   "country_code": "MG",
+   "country": "Madagascar",
    "count": 2,
    "percent": 0.02
   },
   {
-   "country_code": "TJ",
-   "country": "Tajikistan",
+   "country_code": "CG",
+   "country": "Republic of the Congo",
+   "count": 2,
+   "percent": 0.02
+  },
+  {
+   "country_code": "AO",
+   "country": "Angola",
+   "count": 2,
+   "percent": 0.02
+  },
+  {
+   "country_code": "GT",
+   "country": "Guatemala",
    "count": 2,
    "percent": 0.02
   },
@@ -651,32 +675,20 @@
    "percent": 0.01
   },
   {
-   "country_code": "BJ",
-   "country": "Benin",
+   "country_code": "RE",
+   "country": "Reunion",
    "count": 1,
    "percent": 0.01
   },
   {
-   "country_code": "MW",
-   "country": "Malawi",
+   "country_code": "BM",
+   "country": "Bermuda",
    "count": 1,
    "percent": 0.01
   },
   {
-   "country_code": "SK",
-   "country": "Slovakia",
-   "count": 1,
-   "percent": 0.01
-  },
-  {
-   "country_code": "PR",
-   "country": "Puerto Rico",
-   "count": 1,
-   "percent": 0.01
-  },
-  {
-   "country_code": "CY",
-   "country": "Cyprus",
+   "country_code": "JM",
+   "country": "Jamaica",
    "count": 1,
    "percent": 0.01
   },
@@ -687,38 +699,32 @@
    "percent": 0.01
   },
   {
+   "country_code": "QA",
+   "country": "Qatar",
+   "count": 1,
+   "percent": 0.01
+  },
+  {
    "country_code": "MR",
    "country": "Mauritania",
    "count": 1,
    "percent": 0.01
   },
   {
-   "country_code": "LU",
-   "country": "Luxembourg",
+   "country_code": "MQ",
+   "country": "Martinique",
    "count": 1,
    "percent": 0.01
   },
   {
-   "country_code": "BI",
-   "country": "Burundi",
+   "country_code": "LY",
+   "country": "Libya",
    "count": 1,
    "percent": 0.01
   },
   {
-   "country_code": "CG",
-   "country": "Republic of the Congo",
-   "count": 1,
-   "percent": 0.01
-  },
-  {
-   "country_code": "LR",
-   "country": "Liberia",
-   "count": 1,
-   "percent": 0.01
-  },
-  {
-   "country_code": "GM",
-   "country": "Gambia",
+   "country_code": "LB",
+   "country": "Lebanon",
    "count": 1,
    "percent": 0.01
   },
@@ -729,44 +735,8 @@
    "percent": 0.01
   },
   {
-   "country_code": "BN",
-   "country": "Brunei",
-   "count": 1,
-   "percent": 0.01
-  },
-  {
-   "country_code": "SV",
-   "country": "El Salvador",
-   "count": 1,
-   "percent": 0.01
-  },
-  {
-   "country_code": "TG",
-   "country": "Togo",
-   "count": 1,
-   "percent": 0.01
-  },
-  {
-   "country_code": "AO",
-   "country": "Angola",
-   "count": 1,
-   "percent": 0.01
-  },
-  {
-   "country_code": "MG",
-   "country": "Madagascar",
-   "count": 1,
-   "percent": 0.01
-  },
-  {
-   "country_code": "CI",
-   "country": "Ivory Coast",
-   "count": 1,
-   "percent": 0.01
-  },
-  {
-   "country_code": "BY",
-   "country": "Belarus",
+   "country_code": "MN",
+   "country": null,
    "count": 1,
    "percent": 0.01
   },
@@ -777,14 +747,14 @@
    "percent": 0.01
   },
   {
-   "country_code": "MK",
-   "country": "North Macedonia",
+   "country_code": "XK",
+   "country": "Kosovo",
    "count": 1,
    "percent": 0.01
   },
   {
-   "country_code": "SY",
-   "country": "Syria",
+   "country_code": "MK",
+   "country": "North Macedonia",
    "count": 1,
    "percent": 0.01
   },
@@ -795,26 +765,38 @@
    "percent": 0.01
   },
   {
-   "country_code": "GT",
-   "country": "Guatemala",
+   "country_code": "UY",
+   "country": "Uruguay",
    "count": 1,
    "percent": 0.01
   },
   {
-   "country_code": "BA",
-   "country": "Bosnia and Herzegovina",
+   "country_code": "PA",
+   "country": "Panama",
    "count": 1,
    "percent": 0.01
   },
   {
-   "country_code": "MZ",
-   "country": "Mozambique",
+   "country_code": "OM",
+   "country": "Oman",
    "count": 1,
    "percent": 0.01
   },
   {
-   "country_code": "JO",
-   "country": "Jordan",
+   "country_code": "TJ",
+   "country": "Tajikistan",
+   "count": 1,
+   "percent": 0.01
+  },
+  {
+   "country_code": "ZW",
+   "country": "Zimbabwe",
+   "count": 1,
+   "percent": 0.01
+  },
+  {
+   "country_code": "MU",
+   "country": "Mauritius",
    "count": 1,
    "percent": 0.01
   }
